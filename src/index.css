@@ -1,0 +1,26 @@
+.container {
+	display: flex;
+	justify-content: center;
+	overflow: hidden;
+}
+
+.title {
+	color: red;
+}
+
+.art-piece {
+	flex: 10;
+	background-color: blue;
+}
+
+.art-next-button {
+	flex: 1;
+	background-color: lightgray;
+	cursor: pointer;
+}
+
+.test-next-button {
+	flex: 1;
+	background-color: lightgray;
+	cursor: pointer;
+}
